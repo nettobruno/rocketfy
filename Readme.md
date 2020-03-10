@@ -1,10 +1,10 @@
 # Rocketfy
-Este projeto foi realizado em um vídeo da Rocketseat chamado [Recriando Pipefy do zero (com drag n' drop)](https://www.youtube.com/watch?v=awRtgpRsdTQ).
+Este projeto foi realizado em ReactJs em um vídeo da Rocketseat chamado [Recriando Pipefy do zero (com drag n' drop)](https://www.youtube.com/watch?v=awRtgpRsdTQ).
 
 ## Instruções de instalação
 Para que tudo funcione corretamente é necessário que tenha instalado em sua máquina: 
 - NodeJS
-- NPM ou Yarn
+- Yarn
 
 ```bash
   # Clone o repositório
